@@ -1,8 +1,11 @@
-# React + Vite
+# Shine-Event
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project mainly based on event management. <br>
+The key features are:
+* Customer can choose the package provided on our website and book us to organize the event.
+* We also organize public events. So, if any customer want to join to our events he can check it on our latest event option.
+* In this way we also advertise for the event that we organize for our client.
+* There is also a meet us option available where we can discuss for the events and take neccessary measures for our work.
+* For building we use Google and email authentication process.
+* For design part we use tailwind css and Daisy UI.
+  
