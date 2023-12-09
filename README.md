@@ -1,5 +1,5 @@
 # Shine-Event 
-
+Live Link: https://shine-events-6ef5b.web.app <br>
 
 This project mainly based on event management. <br>
 The key features are:
